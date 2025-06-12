@@ -1,0 +1,485 @@
+[2025-06-12 12:11:27] [INFO] com.example.Exten - Шинэ хэрэглэгч бүртгэгдсэн: testuser
+[2025-06-12 12:11:27] [INFO] com.example.Exten - Хэрэглэгч testuser дансандаа 100000.0₮ нэмсэн.
+[2025-06-12 12:11:27] [INFO] com.example.Exten - Бараа нэмэгдсэн: Notebook
+[2025-06-12 12:11:27] [INFO] com.example.Exten - Бараа нэмэгдсэн: Pen
+[2025-06-12 12:11:27] [INFO] com.example.Exten - Купон нэмэгдсэн: SALE10, хувь: 10.0
+[2025-06-12 12:11:27] [INFO] com.example.Exten - Захиалга амжилттай: testuser -> orderId=1
+[2025-06-12 12:11:27] [INFO] com.example.Exten - Бараа устгагдсан: id=2
+[2025-06-12 12:11:27] [ERROR] com.example.Exten - Бараа нэмэхэд алдаа гарлаа: Барааны нэр хоосон байж болохгүй.
+[2025-06-12 12:11:27] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Үлдэгдэл хүрэлцэхгүй.
+[2025-06-12 12:11:27] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Купон код буруу.
+[2025-06-12 12:12:45] [INFO] com.example.Exten - Шинэ хэрэглэгч бүртгэгдсэн: testuser
+[2025-06-12 12:12:45] [INFO] com.example.Exten - Хэрэглэгч testuser дансандаа 100000.0₮ нэмсэн.
+[2025-06-12 12:12:45] [INFO] com.example.Exten - Бараа нэмэгдсэн: Notebook
+[2025-06-12 12:12:45] [INFO] com.example.Exten - Бараа нэмэгдсэн: Pen
+[2025-06-12 12:12:45] [INFO] com.example.Exten - Купон нэмэгдсэн: SALE10, хувь: 10.0
+[2025-06-12 12:12:45] [INFO] com.example.Exten - Захиалга амжилттай: testuser -> orderId=1
+[2025-06-12 12:12:45] [INFO] com.example.Exten - Бараа устгагдсан: id=2
+[2025-06-12 12:12:45] [ERROR] com.example.Exten - Бараа нэмэхэд алдаа гарлаа: Барааны нэр хоосон байж болохгүй.
+[2025-06-12 12:12:45] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Үлдэгдэл хүрэлцэхгүй.
+[2025-06-12 12:12:45] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Купон код буруу.
+[2025-06-12 12:17:17] [INFO] com.example.Exten - Шинэ хэрэглэгч бүртгэгдсэн: testuser
+[2025-06-12 12:17:17] [INFO] com.example.Exten - Хэрэглэгч testuser дансандаа 100000.0₮ нэмсэн.
+[2025-06-12 12:17:17] [INFO] com.example.Exten - Бараа нэмэгдсэн: Notebook
+[2025-06-12 12:17:17] [INFO] com.example.Exten - Бараа нэмэгдсэн: Pen
+[2025-06-12 12:17:17] [INFO] com.example.Exten - Купон нэмэгдсэн: SALE10, хувь: 10.0
+[2025-06-12 12:17:17] [INFO] com.example.Exten - Захиалга амжилттай: testuser -> orderId=1
+[2025-06-12 12:17:17] [INFO] com.example.Exten - Бараа устгагдсан: id=2
+[2025-06-12 12:17:17] [ERROR] com.example.Exten - Бараа нэмэхэд алдаа гарлаа: Барааны нэр хоосон байж болохгүй.
+[2025-06-12 12:17:17] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Үлдэгдэл хүрэлцэхгүй.
+[2025-06-12 12:17:17] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Купон код буруу.
+[2025-06-12 12:29:29] [INFO] com.example.Exten - Шинэ хэрэглэгч бүртгэгдсэн: testuser
+[2025-06-12 12:29:29] [INFO] com.example.Exten - Хэрэглэгч testuser дансандаа 100000.0₮ нэмсэн.
+[2025-06-12 12:29:29] [INFO] com.example.Exten - Бараа нэмэгдсэн: Notebook
+[2025-06-12 12:29:29] [INFO] com.example.Exten - Бараа нэмэгдсэн: Pen
+[2025-06-12 12:29:29] [INFO] com.example.Exten - Купон нэмэгдсэн: SALE10, хувь: 10.0
+[2025-06-12 12:29:29] [INFO] com.example.Exten - Захиалга амжилттай: testuser -> orderId=1
+[2025-06-12 12:29:29] [INFO] com.example.Exten - Бараа устгагдсан: id=2
+[2025-06-12 12:29:29] [ERROR] com.example.Exten - Бараа нэмэхэд алдаа гарлаа: Барааны нэр хоосон байж болохгүй.
+[2025-06-12 12:29:29] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Үлдэгдэл хүрэлцэхгүй.
+[2025-06-12 12:29:29] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Купон код буруу.
+[2025-06-12 12:29:48] [INFO] com.example.Exten - Шинэ хэрэглэгч бүртгэгдсэн: testuser
+[2025-06-12 12:29:48] [INFO] com.example.Exten - Хэрэглэгч testuser дансандаа 100000.0₮ нэмсэн.
+[2025-06-12 12:29:48] [INFO] com.example.Exten - Бараа нэмэгдсэн: Notebook
+[2025-06-12 12:29:48] [INFO] com.example.Exten - Бараа нэмэгдсэн: Pen
+[2025-06-12 12:29:48] [INFO] com.example.Exten - Купон нэмэгдсэн: SALE10, хувь: 10.0
+[2025-06-12 12:29:48] [INFO] com.example.Exten - Захиалга амжилттай: testuser -> orderId=1
+[2025-06-12 12:29:48] [INFO] com.example.Exten - Бараа устгагдсан: id=2
+[2025-06-12 12:29:48] [ERROR] com.example.Exten - Бараа нэмэхэд алдаа гарлаа: Барааны нэр хоосон байж болохгүй.
+[2025-06-12 12:29:48] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Үлдэгдэл хүрэлцэхгүй.
+[2025-06-12 12:29:48] [ERROR] com.example.Exten - Захиалга хийхэд алдаа гарлаа: Купон код буруу.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:03] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 13:37:03] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:03] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:03] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:03] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:03] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:03] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:37:03] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:03] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:37:03] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:03] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 13:37:03] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:03] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:03] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 13:37:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 13:37:33] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:33] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:33] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:37:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:37:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 13:37:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:37:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:37:33] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 13:40:22] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:22] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:22] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 13:40:22] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:23] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:23] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:23] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:23] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:23] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:40:23] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:23] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:40:23] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:23] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 13:40:23] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:23] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:23] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 13:40:48] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:48] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 13:40:48] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:48] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:48] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:48] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:48] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:48] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:40:48] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:48] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:40:48] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:48] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 13:40:48] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:40:48] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:40:48] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 13:48:39] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:48:39] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 13:48:39] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:48:39] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:48:39] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:48:39] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:48:39] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:48:39] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:48:39] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:48:39] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:48:39] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:48:39] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 13:48:39] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:48:39] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:48:39] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 13:49:25] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:49:25] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 13:49:25] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:49:25] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:49:25] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:49:25] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:49:25] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:49:25] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:49:25] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:49:25] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:49:25] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:49:25] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 13:49:25] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:49:25] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:49:25] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 13:52:34] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:52:34] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 13:52:34] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:52:34] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:52:34] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:52:34] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:52:34] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:52:34] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:52:34] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:52:34] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:52:34] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:52:34] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 13:52:34] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 13:52:34] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 13:52:34] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 14:03:32] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:03:32] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 14:03:32] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:03:32] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:03:32] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:03:32] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:03:32] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:03:32] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:03:32] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:03:32] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:03:32] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:03:32] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 14:03:32] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:03:32] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:03:32] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 14:04:51] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:04:51] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 14:04:51] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:04:51] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:04:51] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:04:51] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:04:51] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:04:51] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:04:51] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:04:51] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:04:51] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:04:51] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 14:04:51] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:04:51] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:04:51] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 14:11:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:11:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 14:11:33] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:11:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:11:33] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:11:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:11:33] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:11:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:11:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:11:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:11:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:11:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 14:11:33] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:11:33] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:11:33] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 14:12:59] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:12:59] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 14:12:59] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:12:59] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:12:59] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:12:59] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:12:59] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:12:59] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:12:59] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:12:59] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:12:59] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:12:59] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 14:12:59] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:12:59] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:12:59] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 14:13:01] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:13:01] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 14:13:01] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:13:01] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:13:01] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:13:01] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:13:01] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:13:01] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:13:01] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:13:01] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:13:01] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:13:01] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 14:13:01] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:13:01] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:13:01] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 14:16:57] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:57] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 14:16:57] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:57] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:57] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:57] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:57] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:57] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:16:57] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:57] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:16:57] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:57] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 14:16:57] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:57] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:57] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 14:16:58] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:58] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 14:16:58] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:58] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:58] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:58] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:58] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:58] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:16:58] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:58] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:16:58] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:58] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 14:16:58] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:16:58] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:16:58] [INFO] com.example.Exten - Product deleted: id=7
+[2025-06-12 14:20:41] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:20:41] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - New user registered: admin
+[2025-06-12 14:20:41] [INFO] com.example.Exten - User admin added 5000.0 to their account.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:20:41] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:20:41] [ERROR] com.example.Exten - Error making order: Invalid coupon code.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:20:41] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:20:41] [ERROR] com.example.Exten - Error making order: Insufficient stock.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:20:41] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:20:41] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:20:41] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:20:41] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:20:41] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Product added: Pen
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Coupon added: SALE10, discount: 10.0
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Order successful: testuser -> orderId=3
+[2025-06-12 14:20:41] [INFO] com.example.Exten - New user registered: testuser
+[2025-06-12 14:20:41] [INFO] com.example.Exten - User testuser added 100000.0 to their account.
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Product added: Notebook
+[2025-06-12 14:20:41] [INFO] com.example.Exten - Product deleted: id=7

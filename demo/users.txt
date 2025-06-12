@@ -1,0 +1,2 @@
+admin,admin123,ADMIN,0.00
+user,user123,USER,0.00
